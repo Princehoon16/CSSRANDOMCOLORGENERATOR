@@ -1,2 +1,2 @@
 <h1>CSSRANDOMCOLORGENERATOR</h1>
-<img src="" alt="imagecolorgenerator">
+<img src="randomcolorgenerator.png" alt="imagecolorgenerator">
